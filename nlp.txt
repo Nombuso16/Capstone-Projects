@@ -1,0 +1,12 @@
+2.
+Problem:
+Poor performance of individuals due to poor instructions.
+
+Solution:
+Introduce Natural Language Processing so it can give instructions and better the qualities of the school.
+
+Value added :
+Natural Language Processing will then add value to the school by improving the quality of instruction between individuals tasks and assignments.
+Better learning environment.
+
+

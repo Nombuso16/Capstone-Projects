@@ -1,0 +1,4 @@
+1.
+A.Intent classification 
+B.Text classification 
+C.Sentiment Analysis and Virtual Assistance 
